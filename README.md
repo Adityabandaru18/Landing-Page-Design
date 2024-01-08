@@ -1,1 +1,1 @@
-The design of this landing page is primarily crafted using the Bootstrap framework, enriched with nuanced elements of vanilla CSS strategically integrated to enhance and tailor specific essential aspects of the user interface.
+
